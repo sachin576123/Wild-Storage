@@ -4,8 +4,7 @@ Wild-Storage lets you use YouTube as a Infinite Cloud Storage. It embeds any fil
 
 ## Demo Video ([YouTube Link](https://youtu.be/NbeWh011qjs))
 
-![ezgif com-gif-maker](https://gateway.pinata.cloud/ipfs/Qmdo9ZW5uk6NDYWj8K6oNBABDNtBYZZagAxF9UmoxUQFwM)
-
+![ezgif com-video-to-gif](https://github.com/sachin576123/Wild-Storage/assets/33089431/5ea52d7d-3bcd-470a-9ccd-8506ab7a6016)
 ## Virtual Environment Set Up
 
 ### Create Virtual Environment
